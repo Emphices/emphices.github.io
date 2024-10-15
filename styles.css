@@ -8,15 +8,15 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    background-color: #1e1e1e; /* Dark grey background */
-    color: #f4f4f4; /* White text */
+    background-color: #ffffff; /* Dark grey background */
+    color: #000000; /* White text */
     padding: 0;
     margin: 0;
 }
 
 a {
     text-decoration: none;
-    color: #f4f4f4; /* White links */
+    color: #66b3ff; /* White links */
 }
 
 a:hover {
